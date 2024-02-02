@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\bin\Debug\CIS153_02-01-2024_ArraysAndTextboxes.exe.config
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\bin\Debug\CIS153_02-01-2024_ArraysAndTextboxes.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\bin\Debug\CIS153_02-01-2024_ArraysAndTextboxes.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02-01-2024_ArraysAndTextboxes.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02_01_2024_ArraysAndTextboxes.Form1.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02_01_2024_ArraysAndTextboxes.Properties.Resources.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02-01-2024_ArraysAndTextboxes.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02-01-2024_ArraysAndTextboxes.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02-01-2024_ArraysAndTextboxes.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Ex03\CIS153_02-01-2024_ArraysAndTextboxes\CIS153_02-01-2024_ArraysAndTextboxes\obj\Debug\CIS153_02-01-2024_ArraysAndTextboxes.pdb
